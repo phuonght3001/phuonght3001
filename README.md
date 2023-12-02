@@ -2,7 +2,7 @@
 
 I'm Phuong, a fresher data analyst with a passion for transforming raw data into meaningful insights. I am eager to apply my academic knowledge and analytical skills in a real-world setting.
 
-## 🚀 Skills:
+## 🚀 Technical Skills:
 - Data Analysis: using tools such as Python, SQL for data cleaning, exploration, and visualization.
 - Data Visualization: Skilled in creating clear and insightful visualizations using tools Power BI
 
